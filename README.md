@@ -1,4 +1,4 @@
-#write your own git 
+#writeyourowngit 
 just rewriting git in Python.Why?
 1)Is Fun
 2) To finally get it 
